@@ -13,7 +13,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/haydenphancs/find-the-best-product.git
+    git clone https://github.com/hannahphan12/find-the-best-product.git
     cd find-the-best-product
     ```
 
