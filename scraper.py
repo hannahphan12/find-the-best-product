@@ -9,8 +9,6 @@ django.setup()
 from show.models import Product
 from findprice.parse_each_website import get_data_walmart, get_data_ebay, get_data_amazon
 
-# admin: haiphan
-# pw: 1234
 
 # def get_html(url):
 #     headers = {
